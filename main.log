@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.10)  29 AUG 2023 09:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.10)  29 AUG 2023 14:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -420,9 +420,6 @@ L3 programming layer <2023-08-03>
 
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 5FF67F826817EB7A521418EFE1F8A7B6;2365.
